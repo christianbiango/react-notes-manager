@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "title": "Test1",
+      "content": "C'est un test",
+      "created_at": "18/08/2023",
+      "id": 2
+    },
+    {
+      "title": "Deuxième test",
+      "content": "Un autre test",
+      "created_at": "18/08/2023",
+      "id": 3
+    },
+    {
+      "title": "Dernière note",
+      "content": "Une toute dernière",
+      "created_at": "18/08/2023",
+      "id": 4
+    }
+  ]
+}
